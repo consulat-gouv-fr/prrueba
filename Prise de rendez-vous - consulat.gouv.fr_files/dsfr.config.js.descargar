@@ -1,0 +1,4 @@
+window.dsfr = {
+  verbose: false,
+  mode: 'vue' // change to vue when vue js compatibilitey will be added
+};
